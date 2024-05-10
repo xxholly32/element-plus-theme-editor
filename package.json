@@ -2,7 +2,8 @@
   "private": true,
   "author": "xxholly32@163.com",
   "scripts": {
-    "dev": "pnpm run --filter editor dev"
+    "dev": "pnpm run --filter editor dev",
+    "build": "pnpm run --filter @element-plus/* build && pnpm run --filter editor build"
   },
   "repository": {
     "type": "git",
