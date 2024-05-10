@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "baseUrl": ".",
+    "rootDir": "./src",
+    "moduleResolution": "node",
+    "declaration": true,
+    "outDir": "./lib",
+    "esModuleInterop": true
+  },
+  "include": [
+    "src/*"
+  ]
+}
