@@ -3,70 +3,70 @@ export const ELEMENT_PLUS_CONSTANTS = {
     colorList: [
       {
         "color": "#409eff",
-        "darkColor": "#589ffe",
+        "darkColor": "#409eff",
         "id": "Primary",
         "title": "Brand",
         "type": "normal"
       },
       {
         "color": "#e6202a",
-        "darkColor": "#ff5d55",
+        "darkColor": "#e6202a",
         "id": "Red",
         "title": "Red",
         "type": "normal"
       },
       {
         "color": "#ff832b",
-        "darkColor": "#ffa366",
+        "darkColor": "#ff832b",
         "id": "65c1",
         "title": "Orange",
         "type": "normal"
       },
       {
         "color": "#ffcc00",
-        "darkColor": "#ffd668",
+        "darkColor": "#ffcc00",
         "id": "Yellow",
         "title": "Yellow",
         "type": "normal"
       },
       {
         "color": "#1db84c",
-        "darkColor": "#65ca67",
+        "darkColor": "#1db84c",
         "id": "Green",
         "title": "Green",
         "type": "normal"
       },
       {
         "color": "#00b3af",
-        "darkColor": "#56c6c4",
+        "darkColor": "#00b3af",
         "id": "Sky",
         "title": "Teal",
         "type": "normal"
       },
       {
         "color": "#1fa5ff",
-        "darkColor": "#67baff",
+        "darkColor": "#1fa5ff",
         "id": "f38c",
         "title": "Cyan",
         "type": "normal"
       },
       {
         "color": "#176cff",
-        "darkColor": "#5792ff",
+        "darkColor": "#176cff",
         "id": "116bd",
         "title": "Blue",
         "type": "normal"
       },
       {
         "color": "#8a3ffc",
-        "darkColor": "#a275ff",
+        "darkColor": "#8a3ffc",
         "id": "Purple",
         "title": "Purple",
         "type": "normal"
       },
       {
         "color": "#ea3c8e",
-        "darkColor": "#ff6ba3",
+        "darkColor": "#ea3c8e",
         "id": "17d81",
         "title": "Magenta",
         "type": "normal"
