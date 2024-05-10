@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { changeThemeByCssvars, getPalette } from '@element-plus/theme'
+import { changeThemeByCssvars, getPalette } from '@element-plus/theme';
 const color = ref('#409eff')
 const predefineColors = ref([
   '#409eff',
@@ -51,6 +51,9 @@ function selectTheme(theme: string) {
       <el-button icon-btn @click="toggleDark()">
         <div i="carbon-sun dark:carbon-moon" />
       </el-button>
+      <a icon-btn rel="noreferrer" href="https://github.com/xxholly32/element-plus-theme-editor" target="_blank" title="GitHub">
+        <div i-carbon-logo-github />
+      </a>
     </div>
     <HelloWorld />
   </div>

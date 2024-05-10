@@ -2,11 +2,7 @@ node_modules
 .DS_Store
 dist
 dist-ssr
+lib
 *.local
-
-# lock
-yarn.lock
-package-lock.json
-pnpm-lock.yaml
 
 *.log
